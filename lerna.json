@@ -1,6 +1,6 @@
 {
-  "version": "0.0.1",
-  "npmClient": "yarn",
+  "version": "0.0.2",
+  "npmClient": "bun",
   "useWorkspaces": true,
   "npmClientArgs": ["--ignore-engines"],
   "command": {

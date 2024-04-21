@@ -17,7 +17,6 @@
     "esm/*.js",
     "lib/*.js",
     "src/*.ts",
-    "*.less",
     "*.scss",
     "**/*/style.js"
   ],
@@ -40,23 +39,23 @@
     "access": "public"
   },
   "peerDependencies": {
-    "vue": "^3.2.24"
+    "vue": "^3.4.23"
   },
   "dependencies": {
-    "@formily/core": "^2.0.20",
-    "@formily/grid": "^2.0.20",
-    "@formily/json-schema": "^2.0.20",
-    "@formily/reactive": "^2.0.20",
-    "@formily/reactive-vue": "^2.0.20",
-    "@formily/shared": "^2.0.20",
-    "@formily/vue": "^2.0.20",
+    "@formily/core": "^2.3.1",
+    "@formily/grid": "^2.3.1",
+    "@formily/json-schema": "^2.3.1",
+    "@formily/reactive": "^2.3.1",
+    "@formily/reactive-vue": "^2.3.1",
+    "@formily/shared": "^2.3.1",
+    "@formily/vue": "^2.3.1",
     "@vicons/fluent": "^0.12.0",
     "@vicons/ionicons4": "^0.12.0",
     "@vicons/ionicons5": "^0.12.0",
-    "naive-ui": "^2.30.4",
+    "naive-ui": "^2.38.1",
     "resize-observer-polyfill": "^1.5.1",
     "vfonts": "^0.0.3",
-    "vue-slicksort": "^2.0.0-alpha.5"
+    "vue-slicksort": "^2.0.5"
   },
   "gitHead": "b7eaca28cb86a9bc464d2a9a9794df97c5cebaad"
 }
